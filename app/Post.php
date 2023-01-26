@@ -1,5 +1,3 @@
-nes (7 sloc)  100 Bytes
-
 <?php
 
 namespace App;
